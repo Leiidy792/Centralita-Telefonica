@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using Central_Telefonica;
+using Central;
 
 class Practica2
 {
