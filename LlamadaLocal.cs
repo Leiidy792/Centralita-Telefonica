@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Central_Telefonica
+namespace Central
 { 
 }
 
